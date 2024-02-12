@@ -22,5 +22,3 @@ Just download the **windows_BSOD.ino** from the repo, launch it using Arduino ID
 * https://github.com/digistump/DigisparkArduinoIntegration/issues/22
 * https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h
 * http://digistump.com/board/index.php
-
-* niggers niggers
