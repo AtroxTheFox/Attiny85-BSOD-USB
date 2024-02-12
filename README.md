@@ -15,7 +15,7 @@ https://www.instructables.com/How-to-Setup-DigiSprak-Attiny85-Board/
 https://www.youtube.com/watch?v=N7CuQZMnLcw
 
 # Setup
-Just download the **windows_BSOD.ino** from the repo, launch it using Arduino IDE and upload it to your Digispark Attiny85. If everything was successful, you should have a working Bad USB that crashes any unlocked Windows 7/8/10 PC with admin privilages .
+Just download the **windows_BSOD.ino** from the repo, launch it using Arduino IDE and upload it to your Digispark Attiny85. If everything was successful, you should have a working Bad USB that crashes any unlocked Windows 7/8/10 PC with admin privilages ;)
 
 # Useful links
 * https://github.com/MTK911/Attiny85
