@@ -4,6 +4,9 @@ A program written in Arduine IDE for the Digispark Attiny85 devboard, that will 
 # Disclaimer!
 This code is for educational purposes only. It comes with no warranty and can damage your system! We do not take responsibility for any potencial damage!
 
+# Showcase
+[![Showcase YT video](https://img.youtube.com/vi/Pzuy3PfCmDo/0.jpg)](https://www.youtube.com/watch?v=Pzuy3PfCmDo)
+
 # Getting started
 You'll need:
 * Digispark Attiny85
