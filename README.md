@@ -1,5 +1,5 @@
 # Attiny85-BSOD-USB
-A program written in Arduine IDE for the Digispark Attiny85 devboard, that will BSOD your W10 PC in seconds ;)
+A program written in Arduine IDE for the Digispark Attiny85 devboard, that will BSOD your W10/11 PC in seconds ;)
 
 # Disclaimer!
 This code is for educational purposes only. It comes with no warranty and can damage your system! We do not take responsibility for any potencial damage!
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=N7CuQZMnLcw
 * Windows 10/11 PC
 * Digispark Attiny85 loaded with the program
 * Administrator account
-* PC need to be unlocked & on the desktop
+* PC needs to be unlocked & on the desktop
 
 # Setup
 Just download the **windows_BSOD.ino** from the repo, launch it using Arduino IDE and upload it to your Digispark Attiny85. If everything was successful, you should have a working Bad USB that crashes any unlocked Windows 10/11 PC with admin privilages ;)
